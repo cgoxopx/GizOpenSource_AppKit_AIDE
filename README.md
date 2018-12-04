@@ -1,7 +1,8 @@
 # 机智云物联网开源框架App
 ================
 
-此为aide版本。  
+此为aide版本。 
+将一些aide没有的jar打包进来了，并且修改了一些报错，可顺利通过编译。  
 尚未经过测试，能不能使用暂时不知道。  
 Android Studio版本下载地址：https://github.com/gizwits/GOpenSource_AppKit_Android_AS
 
